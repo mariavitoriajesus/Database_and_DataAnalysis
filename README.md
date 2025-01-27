@@ -48,7 +48,7 @@ Aqui estão algumas das tecnologias que utilizo nos projetos:
 
 ## 📊 Projetos em Destaque  
 
-### 1️⃣ **[Modelando uma Ordem de Serviço - Modelagem ER](link_para_o_projeto)**  
+### 1️⃣ **[Modelando uma Ordem de Serviço - Modelagem ER](https://github.com/mariavitoriajesus/Database_and_DataAnalysis/tree/e09180b007bc357a73bbdc9260438d3474f34bdf/ServiceOrder)**  
 💡 **Resumo:** Primeiro projeto fazendo uma modelagem de dados conceitual, para melhor esclarecimento sobre Levantamento de Requisitos.
 
 ---
