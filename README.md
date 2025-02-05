@@ -51,6 +51,9 @@ Aqui estão algumas das tecnologias que utilizo nos projetos:
 ### 1️⃣ **[Modelando uma Ordem de Serviço - Modelagem ER](https://github.com/mariavitoriajesus/Database_and_DataAnalysis/tree/e09180b007bc357a73bbdc9260438d3474f34bdf/ServiceOrder)**  
 💡 **Resumo:** Primeiro projeto fazendo uma modelagem de dados conceitual, para melhor esclarecimento sobre Levantamento de Requisitos.
 
+### 1️⃣ **[Modelando uma Universidade e seus cursos](https://github.com/mariavitoriajesus/Database_and_DataAnalysis/tree/a05b359f4f049b9a7daa70bb60d020a89d8675d4/University)**  
+💡 **Resumo:** representa a modelagem de um sistema universitário para gerenciar alunos, professores, cursos e disciplinas. 
+
 ---
 
 ## 🚀 Sobre Mim  
