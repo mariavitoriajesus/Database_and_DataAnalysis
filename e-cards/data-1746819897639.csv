@@ -1,0 +1,24 @@
+"id","hp","name","type","stage","info","attack","demmage","weak","ressistence","retreat","cardnumberincollection","collectionname","releasedate","totalcardsincollection"
+14,60,"Pidgey","Colorless","Basic","Small bird Pokémon.","Gust","10","Electric","Fighting","1 Colorless","57/102","Base Set","1999-01-09",102
+12,60,"Meowth","Colorless","Basic","Adores coins and sparkly things.","Pay Day","20","Fighting","Psychic","1 Colorless","56/64","Jungle","1999-06-16",64
+11,40,"Jigglypuff","Colorless","Basic","Uses song to put foes to sleep.","Sing","0","Fighting","Psychic","1 Colorless","54/64","Jungle","1999-06-16",64
+23,60,"Dratini","Dragon","Basic","Soft and weak body.","Pound","10","Ice","","1 Colorless","26/102","Base Set","1999-01-09",102
+18,50,"Zubat","Dark","Basic","Emits ultrasonic cries.","Leech Life","10","Electric","","1 Colorless","57/62","Fossil","1999-10-10",62
+5,40,"Pikachu","Electric","Basic","Gathers electricity to cause lightning storms.","Thunder Jolt","30","Fighting","","1 Colorless","60/64","Jungle","1999-06-16",64
+2,40,"Pikachu","Electric","Basic","When several of these Pokémon gather, their electricity can build and cause lightning storms.","Thunder Jolt","30","Fighting","","1 Colorless","60/64","Jungle","1999-06-16",64
+19,60,"Oddish","Grass","Basic","Releases toxic pollen.","Stun Spore","20","Fire","","1 Colorless","58/64","Jungle","1999-06-16",64
+8,60,"Squirtle","Water","Basic","Shoots water at prey.","Bubble","10","Electric","","1 Colorless","63/102","Base Set","1999-01-09",102
+4,50,"Charmander","Fire","Basic","Obviously prefers hot places.","Scratch","10","Water","","1 Colorless","46/102","Base Set","1999-01-09",102
+1,50,"Charmander","Fire","Basic","Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail.","Scratch","10","Water","","1 Colorless","46/102","Base Set","1999-01-09",102
+15,80,"Pidgeotto","Colorless","Stage 1","Flies swiftly.","Wing Attack","20","Electric","Fighting","1 Colorless","22/102","Base Set","1999-01-09",102
+22,90,"Clefable","Colorless","Stage 1","Uses various mysterious powers.","Metronome","0","Fighting","","2 Colorless","17/64","Jungle","1999-06-16",64
+13,70,"Machoke","Fighting","Stage 1","Powerfully muscular.","Karate Chop","50","Psychic","","2 Colorless","34/102","Base Set","1999-01-09",102
+16,90,"Raichu","Electric","Stage 1","Stores electricity in its cheeks.","Thunder","60","Fighting","","3 Colorless","14/102","Base Set","1999-01-09",102
+21,70,"Electrode","Electric","Stage 1","Stores electrical energy.","Electric Shock","50","Fighting","","1 Colorless","21/64","Jungle","1999-06-16",64
+7,70,"Ivysaur","Grass","Stage 1","Grows by soaking sunlight.","Vine Whip","30","Fire","","2 Colorless","30/102","Base Set","1999-01-09",102
+20,80,"Weepinbell","Grass","Stage 1","Sprays poison powder.","Poisonpowder","30","Fire","","2 Colorless","48/64","Jungle","1999-06-16",64
+9,90,"Charmeleon","Fire","Stage 1","Aggressive and hot-tempered.","Flamethrower","50","Water","","2 Colorless","24/102","Base Set","1999-01-09",102
+17,100,"Nidoking","Fighting","Stage 2","Uses its tail to smash opponents.","Horn Drill","50","Psychic","","3 Colorless","11/102","Base Set","1999-01-09",102
+6,80,"Gengar","Psychic","Stage 2","Mimics shadows and causes fear.","Dark Mind","30","Psychic","Fighting","0","5/62","Fossil","1999-10-10",62
+3,80,"Gengar","Psychic","Stage 2","Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.","Dark Mind","30","Psychic","Fighting","0","5/62","Fossil","1999-10-10",62
+10,100,"Blastoise","Water","Stage 2","Shellfish Pokémon.","Hydro Pump","40+","Electric","","3 Colorless","2/102","Base Set","1999-01-09",102
