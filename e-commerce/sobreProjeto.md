@@ -28,7 +28,7 @@ O banco de dados é composto por 8 tabelas interligadas, que representam as prin
 
 A modelagem conceitual do projeto foi planejada através de um Diagrama de Entidade-Relacionamento, que visualiza as entidades e seus relacionamentos:
 
-[Inserir imagem do DER corrigido aqui]
+[[Inserir imagem do DER corrigido aqui]](https://raw.githubusercontent.com/mariavitoriajesus/Database_and_DataAnalysis/main/e-commerce/project.png)
 
 ## 📝 Script SQL de Criação e População
 
