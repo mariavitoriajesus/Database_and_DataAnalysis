@@ -28,7 +28,7 @@ O banco de dados é composto por 8 tabelas interligadas, que representam as prin
 
 A modelagem conceitual do projeto foi planejada através de um Diagrama de Entidade-Relacionamento, que visualiza as entidades e seus relacionamentos:
 
-[[Inserir imagem do DER corrigido aqui]](https://raw.githubusercontent.com/mariavitoriajesus/Database_and_DataAnalysis/main/e-commerce/project.png)
+(https://raw.githubusercontent.com/mariavitoriajesus/Database_and_DataAnalysis/main/e-commerce/project.png)
 
 ## 📝 Script SQL de Criação e População
 
@@ -36,8 +36,6 @@ O código SQL para a criação do banco de dados (`db_ecommerce`) e de todas as 
 * `PRIMARY KEY` para identificação única dos registos.
 * `FOREIGN KEY` para garantir a integridade referencial.
 * `UNIQUE` e `NOT NULL` `constraints`.
-
-[Mencionar o nome do ficheiro que contem as queries de inserção de dados, se for separado]
 
 ## 📊 Análise e Consultas SQL
 
