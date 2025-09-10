@@ -29,7 +29,7 @@ O banco de dados é composto por 9 tabelas interligadas, que representam as prin
 
 A modelagem conceitual do projeto foi planejada através de um Diagrama de Entidade-Relacionamento, que visualiza as entidades e seus relacionamentos:
 
-[Inserir imagem do DER_Project.png aqui]
+https://github.com/mariavitoriajesus/Database_and_DataAnalysis/blob/main/OficinaDB/DER_Project.png
 
 ## 📝 Script SQL de Criação e População
 
